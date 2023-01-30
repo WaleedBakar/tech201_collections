@@ -18,9 +18,9 @@
 #
 # print(student_1["steam"]) #Devops
 #
-# #how to access particular parts of a list in a dictonary
+# #how to access particular parts of a list in a dictionary
 # print(student_1["completed_lessons"][2])
-# # changing a value in a dictorary
+# # changing a value in a dictiorary
 # student_1["completed_lessons"]= 3
 # print(student_1["completed_lessons"])
 
